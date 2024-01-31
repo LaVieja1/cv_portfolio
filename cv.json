@@ -1,24 +1,34 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Programmer",
-    "image": "",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
-    "url": "https://johndoe.com",
-    "summary": "A summary of John Doe…",
+    "name": "Santiago Cano",
+    "label": "Web developer | Front End con conocimientos de Back End",
+    "image": "https://avatars.githubusercontent.com/u/65514301?v=4",
+    "email": "404santicano@gmail.com",
+    "phone": "+54 011 6217 9201",
+    "url": "https://santicano.vercel.app",
+    "summary": "Soy un desarrollador web especializado en el Front End con habilidades en JavaScript y React. Además, cuento con experiencia en el desarrollo BackEnd utilizando tecnologías como Node.js y Express. Mi enfoque esta en crear sitios y aplicaciones web atractivas y funcionales para el usuario. Tengo la capacidad de aprender rápidamente nuevas tecnologías para abordar distintos desafíos y mantenerme actualizado en el ambiente tecnológico.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Italiani 630",
+      "postalCode": "BA 1842",
+      "city": "Monte Grande",
+      "countryCode": "ARG",
+      "region": "Buenos Aires"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "john",
-        "url": "https://twitter.com/john"
+        "network": "LinkedIn",
+        "username": "santicano2",
+        "url": "https://linkedin.com/in/santicano2"
+      },
+      {
+        "network": "Instagram",
+        "username": "santicano2",
+        "url": "https://www.instagram.com/santicano2/"
+      },
+      {
+        "network": "GitHub",
+        "username": "LaVieja1",
+        "url": "https://github.com/LaVieja1"
       }
     ]
   },
@@ -46,12 +56,12 @@
   ],
   "education": [
     {
-      "institution": "University",
-      "url": "https://institution.com/",
-      "area": "Software Development",
-      "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
+      "institution": "Universidad Nacional de Lanús",
+      "url": "https://www.unla.edu.ar/",
+      "area": "Licenciatura en Sistemas",
+      "studyType": "Estudiante",
+      "startDate": "2022",
+      "endDate": "Presente",
       "score": "4.0",
       "courses": ["DB1101 - Basic SQL"]
     }
