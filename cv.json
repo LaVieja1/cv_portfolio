@@ -58,7 +58,52 @@
       "startDate": "2022",
       "endDate": "Presente",
       "score": "4.0",
-      "courses": ["DB1101 - Basic SQL"]
+      "courses": ["DB1101 - Basic SQL"],
+      "summary": "Capacitación en el desarrollo, planificación, diseño, ejecución y control de sistemas informáticos complejos. Conocimientos teóricos y prácticos sólidos que permiten adaptarse al permanente cambio en la tecnología."
+    },
+    {
+      "institution": "The Odin Project",
+      "url": "https://www.theodinproject.com",
+      "area": "Curso sobre desarrollo web",
+      "studyType": "Estudiante",
+      "startDate": "2022",
+      "endDate": "2024",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"],
+      "summary": "Conocimiento sobre el desarrollo web, uso de control de versiones, desarrollo front-end, desarrollo back-end, proyectos prácticos, despliegue de sitios y hosting."
+    },
+    {
+      "institution": "FreeCodeCamp",
+      "url": "https://www.freecodecamp.org",
+      "area": "Curso sobre desarrollo web",
+      "studyType": "Estudiante",
+      "startDate": "2022",
+      "endDate": null,
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"],
+      "summary": "Conocimiento sobre HTML y CSS con su curso Responsive Web Design"
+    },
+    {
+      "institution": "Instituto Argentina",
+      "url": null,
+      "area": "Escuela secundaria",
+      "studyType": "Estudiante",
+      "startDate": "2018",
+      "endDate": "2020",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"],
+      "summary": "Escuela secundaria"
+    },
+    {
+      "institution": "Instituto Grilli",
+      "url": null,
+      "area": "Escuela primaria",
+      "studyType": "Estudiante",
+      "startDate": "2005",
+      "endDate": "2017",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"],
+      "summary": "Escuela primaria y secundaria"
     }
   ],
   "awards": [
