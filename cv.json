@@ -76,10 +76,22 @@
   ],
   "certificates": [
     {
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
+      "name": "EF SET English Certificate",
+      "date": "2024",
+      "issuer": "EF Standard English Test (EF SET)",
+      "url": "https://www.efset.org/cert/uDajnN"
+    },
+    {
+      "name": "Introduction to MongoDB",
+      "date": "2023",
+      "issuer": "MongoDB",
+      "url": "https://learn.mongodb.com/c/43AWI7PkSaannDBLGtkyUg"
+    },
+    {
+      "name": "Responsive Web Design",
+      "date": 2021,
+      "issuer": "freeCodeCamp",
+      "url": "https://www.freecodecamp.org/certification/santiagocano/responsive-web-design"
     }
   ],
   "publications": [
@@ -93,15 +105,100 @@
   ],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "HTML",
       "level": "Master",
-      "keywords": ["HTML", "CSS", "JavaScript"]
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "SQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Avanzado",
+      "keywords": ["Bases de Datos", "Almacenamiento de Datos", "Backend"]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     }
   ],
   "languages": [
     {
-      "language": "English",
+      "language": "Spanish",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
     }
   ],
   "interests": [
