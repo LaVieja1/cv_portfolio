@@ -1,11 +1,12 @@
 ---
 import { basics } from '@cv'
+import Section from '@/components/Section.astro'
 
 const { name, label, image, location, profiles, phone, email } = basics
 const { city, region } = location
 ---
 
-<section>
+<Section>
     <div class="container">
         <div class="info">
             <h1>{name}</h1>
@@ -34,10 +35,8 @@ const { city, region } = location
     <figure>
         <img src={image} alt={name} />
     </figure>
-</section>
+</Section>
 
 <style>
-    .container {
-
-    }
+    
 </style>
