@@ -255,12 +255,40 @@
   ],
   "projects": [
     {
-      "name": "Project",
+      "name": "Where's Wally",
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
-      "description": "Description...",
-      "highlights": ["Won award at AIHacks 2016"],
-      "url": "https://project.com/"
+      "description": "Inspirado en el juego Where's Wally, donde buscas a los personajes en la imagen, con un sistema de puntuación premiando el mejor tiempo posible.",
+      "highlights": ["React, NodeJS, MongoDB"],
+      "url": "https://top-wheres-wally-front-end.vercel.app/",
+      "gitHub": "https://github.com/LaVieja1/TOP_Wheres_Wally_FrontEnd"
+    },
+    {
+      "name": "OdinBook",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Intento de clon de la red social Facebook, con funciones y características similares",
+      "highlights": ["React, NodeJS, MondoDB, TailwindCSS"],
+      "url": "https://top-odin-book-front-end.vercel.app/",
+      "gitHub": "https://github.com/LaVieja1/TOP_OdinBook_FrontEnd"
+    },
+    {
+      "name": "WeText",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "App para mandar mensajes entre usuarios, con autentificación y almacenamiento de imagenes",
+      "highlights": ["React, NodeJS, Socket.io, Cloudinary, MongoDB"],
+      "url": "https://top-we-text.vercel.app/",
+      "gitHub": "https://github.com/LaVieja1/TOP_WeText"
+    },
+    {
+      "name": "ShopCart",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Sitio web de compra de ropa usando una API",
+      "highlights": ["React, TailwindCSS, Vite"],
+      "url": "https://shop-cart-roan.vercel.app/",
+      "gitHub": "https://github.com/LaVieja1/shop-cart"
     }
   ]
 }
